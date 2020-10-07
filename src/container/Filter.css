@@ -1,0 +1,16 @@
+.filter-label {
+  border: none;
+  font-size: 0.9em;
+  text-decoration: underline;
+  text-align: center;
+  display: block;
+}
+
+.filter-box {
+  background-color: #fff;
+  height: fit-content;
+}
+
+.color-green-light {
+  background-color: lightgreen;
+}

@@ -1,0 +1,38 @@
+body {
+  background-color: lightgrey !important;
+}
+.active-btn {
+  border: 1px solid rgb(255, 49, 83);
+}
+.text-align {
+  text-align: center;
+}
+.bg-color {
+  background-color: lightgrey;
+}
+
+.padding-TRBL-1em {
+  padding: 1em;
+}
+
+.margin-bottom-8 {
+  margin-bottom: 0.8em;
+}
+.font-weight-1000 {
+  font-weight: 1000;
+}
+.padding-top-1em {
+  padding-top: 1em;
+}
+.margin-left-1em {
+  margin-left: 1em;
+}
+.margin-bottom-4em {
+  margin-bottom: 4em;
+}
+.padding-left-1em {
+  padding-left: 1em;
+}
+.border-radius-7px {
+  border-radius: 7px;
+}
